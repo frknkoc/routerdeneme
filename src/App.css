@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  background-color: aquamarine;
+   color: darkcyan;
+}
+
+.linkin:hover{
+  background-color: grey;
+   color: white;
+}
+
